@@ -140,3 +140,6 @@ dist
 .env.*
 !.env.example
 .DS_Store
+
+# Local task prompts
+/*-prompt.md
